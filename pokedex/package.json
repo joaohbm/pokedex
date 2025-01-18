@@ -8,11 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@google-cloud/translate": "^8.5.0",
     "axios": "^1.7.9",
     "i18n": "^0.15.1",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "description": ""
 }
